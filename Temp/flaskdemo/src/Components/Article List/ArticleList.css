@@ -1,0 +1,10 @@
+.Article{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 80%;
+    
+}
+
+.Article > *{
+    margin: 20px;
+}
