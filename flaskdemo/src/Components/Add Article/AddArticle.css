@@ -1,0 +1,21 @@
+.addBlog{
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 400px;
+    height:600px;
+    width: 30%;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    border-radius: 10px;
+    background-color: #6c718b;
+}
+
+.inputForm >*{
+    margin:25px;
+    margin-top:2px
+}
+
+.inputForm >div>label{
+    margin-bottom:8px
+}
